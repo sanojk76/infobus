@@ -482,7 +482,7 @@ function showPage() {
       <p><span class="glyphicon glyphicon-phone"></span> Kollam-0474-2751053/ 2751053</p>
       <p><span class="glyphicon glyphicon-phone"></span>Kotarrakkra -0474-2452812/2452622</p>
       <p><span class="glyphicon glyphicon-phone"></span> Ochira- 0476- 2691520</p>
-      <p><span class="glyphicon glyphicon-envelope"></span> myemail@something.com</p><hr>
+      <p><span class="glyphicon glyphicon-envelope"></span> myeemail@something.com</p><hr>
          
 	 </div> <div class="col-sm-4">
        <p><span class="glyphicon glyphicon-map-marker"></span>Kottayam District  </p>
